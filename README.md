@@ -15,6 +15,7 @@
 	git push <local_repo_name> HEAD:main
 	# git push <local_repo_name> <local_branch>:<remote_branch>
 	``` 
-	why
+	why:
+		- https://stackoverflow.com/questions/23241052/what-does-git-push-origin-head-mean	
 
 1. failed to push #2
